@@ -1,0 +1,66 @@
+.container {
+  font-size: 20px;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  margin: 0px 0px 0px 200px;
+}
+
+.name {
+  text-align: center;
+  font-size: 50px;
+  border-radius: 20px;
+  border: 2px solid #fcfeff;
+  background-color: rgb(26, 12, 107);
+  width: 150px;
+  height: 80px;
+  margin: 10px 0px 0px 220px;
+  font-family: "Bagel Fat One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Orbit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+  margin: 130px 0px 0px 150px;
+}
+
+table {
+  margin: -520px 0px 0px 550px;
+  font-size: 28px;
+  width: 50%;
+  table-layout: fixed;
+  font-family: "Orbit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pms {
+  background-size: contain;
+  background-repeat: round;
+}
+
+.rabbit {
+  background-repeat: no-repeat;
+  background-size: 80px;
+  background-position: -5%;
+}
+
+.tt {
+  text-align: center;
+  font-size: 60px;
+  margin: 0px 0px -80px 0px;
+  font-family: "Orbit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.oasis {
+  background-size: contain;
+  background-repeat: round;
+}
